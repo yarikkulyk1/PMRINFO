@@ -1,6 +1,7 @@
 <html>
 <head>
-	<title>ВМОРТ</title>
+	<center><title>ВМОРТ</title></center>
+	<p></p>
 </head>
 <body style="background-color: black">
 </body>
