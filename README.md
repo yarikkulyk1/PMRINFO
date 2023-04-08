@@ -2,7 +2,6 @@
 <head>
 	<title>ВМОРТ</title>
 </head>
-<body>
-
+<body style="background-color: black">
 </body>
 </html>
